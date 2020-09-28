@@ -48,3 +48,4 @@ September 2012 - March 2018 | Ukraine
 *Art school*
 *Music School*
 *Dance school (ballroom dancing)*
+---
