@@ -3,12 +3,12 @@
 ---
 ### Kharkov, Ukraine ###
 ---
-####Contact me
+### Contact me
 mobile: +380663650054
 email: violetta21051994@gmail.com
 telegram: [violetta_veta](tlgg.ru/violetta_veta)
 ---
-#### Summary
+### Summary
 I have no experience in Front-End Dev. But im ambitious and I believe i will better then yesterday and will like superman.
 ---
 ####Skills
