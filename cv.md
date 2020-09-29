@@ -6,7 +6,7 @@
 
 ### Contact me
 
- mobile: +380663650054_
+mobile: +380663650054_
  
 email: violetta21051994@gmail.com
 
@@ -22,13 +22,13 @@ I have no experience in Front-End Dev. But im ambitious and I believe i will bet
 
 #### Skills
 
-*English = B1
+* English = B1
 
-*maintaining safe and accompanying documents
+* maintaining safe and accompanying documents
 
-*fast learner
+* fast learner
 
-*sale "be to be"
+* sale "be to be"
 
 P.S now Im studing all materials in RSSchool. I can say that, I know html very well and css.
 
@@ -41,11 +41,11 @@ P.S now Im studing all materials in RSSchool. I can say that, I know html very w
 
 12.06.2016 - 02.11.2018 | Ukraine
 
-*Product sales
+* Product sales
 
-*Cooking all meal
+* Cooking all meal
 
-*Safe keeping
+* Safe keeping
 
 ---
 
@@ -53,11 +53,11 @@ P.S now Im studing all materials in RSSchool. I can say that, I know html very w
 
 03.03.2019 - 05.06.2019 | Ukraine
 
-*Consultation abote tickets
+* Consultation abote tickets
 
-*Cachier
+* Cachier
 
-*Compliance with the internal rules of the enterprise
+* Compliance with the internal rules of the enterprise
 
 ---
 
@@ -65,11 +65,11 @@ P.S now Im studing all materials in RSSchool. I can say that, I know html very w
 
 09.08.2019 - 02.11.2019 | Czech Republic
 
-*Control at the beginning of production
+* Control at the beginning of production
 
-*Control details at the end of production
+* Control details at the end of production
 
-*Compliance with the internal rules of the enterprise
+* Compliance with the internal rules of the enterprise
 
 ---
 
