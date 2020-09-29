@@ -1,7 +1,7 @@
 
 # Kalinichenko Violetta
 ---
-### Kharkov, Ukraine ###
+### Kharkov, Ukraine 
 ---
 
 ### Contact me
@@ -11,11 +11,13 @@
 email: violetta21051994@gmail.com
 
 telegram: [violetta_veta](tlgg.ru/violetta_veta)
+
 ---
 
 ### Summary
 
 I have no experience in Front-End Dev. But im ambitious and I believe i will better then yesterday and will like superman.
+
 ---
 
 #### Skills
@@ -29,6 +31,7 @@ I have no experience in Front-End Dev. But im ambitious and I believe i will bet
 *sale "be to be"
 
 P.S now Im studing all materials in RSSchool. I can say that, I know html very well and css.
+
 ---
 
 #### Work experience
@@ -43,6 +46,7 @@ P.S now Im studing all materials in RSSchool. I can say that, I know html very w
 *Cooking all meal*
 
 *Safe keeping*
+
 ---
 
 ##### Cachier, CMPT (Pegasus)
@@ -54,6 +58,7 @@ P.S now Im studing all materials in RSSchool. I can say that, I know html very w
 *Cachier*
 
 *Compliance with the internal rules of the enterprise*
+
 ---
 
 ##### Controller,InTica
@@ -65,6 +70,7 @@ P.S now Im studing all materials in RSSchool. I can say that, I know html very w
 *Control details at the end of production*
 
 *Compliance with the internal rules of the enterprise*
+
 ---
 
 #### Education
@@ -74,6 +80,7 @@ P.S now Im studing all materials in RSSchool. I can say that, I know html very w
 Manager international relations of economic
 
 September 2012 - March 2018 | Ukraine
+
 ---
 
 #### Additionally
